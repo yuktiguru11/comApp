@@ -1,6 +1,6 @@
 const Chats=()=>{
     return (
-        <></>
+        <>Chat page</>
     )
 }
 
